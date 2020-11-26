@@ -1,4 +1,4 @@
-package com.example.joke.services;
+package andy.springframwork.joke.services;
 
 /**
  * @author weat0212@gmail.com

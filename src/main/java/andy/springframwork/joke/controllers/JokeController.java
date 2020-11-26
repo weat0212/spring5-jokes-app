@@ -1,6 +1,6 @@
-package com.example.joke.controllers;
+package andy.springframwork.joke.controllers;
 
-import com.example.joke.services.JokeService;
+import andy.springframwork.joke.services.JokeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
